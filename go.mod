@@ -3,7 +3,7 @@ module cloud.google.com/go/cbt
 go 1.23.0
 
 require (
-	cloud.google.com/go/bigtable v1.38.0
+	cloud.google.com/go/bigtable v1.41.0
 	github.com/google/go-cmp v0.7.0
 	github.com/jhump/protoreflect v1.17.0
 	github.com/olekukonko/tablewriter v0.0.5
