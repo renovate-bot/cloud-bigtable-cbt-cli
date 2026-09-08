@@ -1,13 +1,13 @@
 module cloud.google.com/go/cbt
 
-go 1.25.8
+go 1.26.0
 
 require (
 	cloud.google.com/go/bigtable v1.52.0
 	github.com/google/go-cmp v0.7.0
 	github.com/jhump/protoreflect v1.17.0
 	github.com/olekukonko/tablewriter v0.0.5
-	golang.org/x/oauth2 v0.36.0
+	golang.org/x/oauth2 v0.37.0
 	golang.org/x/sys v0.46.0
 	google.golang.org/api v0.287.1
 	google.golang.org/grpc v1.82.1
